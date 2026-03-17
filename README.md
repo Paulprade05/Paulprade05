@@ -5,7 +5,7 @@ Estoy cursando el itinerario intensivo de tres años para obtener ambas titulaci
 
 ---
 
-### Tecnologías y herramientas
+
 
 ### En qué estoy trabajando
 - Centrado en el desarrollo de mi **TFG** (Trabajo de Fin de Grado).
