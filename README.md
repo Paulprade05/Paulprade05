@@ -7,15 +7,16 @@ Estoy cursando el itinerario intensivo de tres años para obtener ambas titulaci
 
 ### 🛠️ Mi Stack Tecnológico
 
-**Frontend:**
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+### 🛠️ Tecnologías y herramientas
 
-**Backend & Bases de Datos:**
+**Lenguajes de programación:**
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Visual Basic](https://img.shields.io/badge/Visual%20Basic-005299?style=for-the-badge&logo=visual-studio&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
+**Entornos y Bases de Datos:**
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
@@ -27,7 +28,7 @@ Estoy cursando el itinerario intensivo de tres años para obtener ambas titulaci
 ---
 
 ### 📊 Mis estadísticas de GitHub
-![Tus estadísticas](https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=radical)
+![Tus estadísticas](https://github-readme-stats.vercel.app/api?username=Paulprade05&show_icons=true&theme=radical)
 
 ---
 
