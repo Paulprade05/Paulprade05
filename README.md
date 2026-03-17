@@ -5,8 +5,6 @@ Estoy cursando el itinerario intensivo de tres años para obtener ambas titulaci
 
 ---
 
-### Mi Stack Tecnológico
-
 ### Tecnologías y herramientas
 
 ### En qué estoy trabajando
