@@ -1,16 +1,16 @@
-# ¡Hola! Soy Paul 👋
+# ¡Hola! Soy Paul Andrei 👋
 
-### Estudiante de Doble Grado Superior (DAM + DAW)
-Estoy cursando el itinerario intensivo de tres años para obtener ambas titulaciones, lo que me permite moverme con soltura entre el desarrollo web y las aplicaciones multiplataforma.
+### 🚀 Estudiante de Doble Grado Superior (DAM + DAW)
+En pleno itinerario intensivo de tres años, combinando el desarrollo de aplicaciones multiplataforma con la creación de experiencias web modernas.
 
 ---
 
-
-
 ### En qué estoy trabajando
-- Centrado en el desarrollo de mi **TFG** (Trabajo de Fin de Grado).
-- Desarrollando un **proyecto de juego web**, aplicando lógica de programación y diseño interactivo.
-- Perfeccionando mis habilidades en el stack de DAM y DAW.
+- **TFG:** Centrado en mi Trabajo de Fin de Grado, aplicando todo lo aprendido en el ciclo.
+- **Pokémon TCG Simulator:** Desarrollando un simulador del juego de cartas de Pokémon.
+  - [**¡Pruébalo aquí en vivo!**](https://pokemon-tcg-simulator.vercel.app/)
+
+---
 
 ### Tecnologías y herramientas
 
@@ -22,11 +22,12 @@ Estoy cursando el itinerario intensivo de tres años para obtener ambas titulaci
 **Entornos y Bases de Datos:**
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
 ---
 
 ### Mis estadísticas de GitHub
-![Tus estadísticas](https://github-readme-stats.vercel.app/api?username=Paulprade05&show_icons=true&theme=radical)
+![Mis estadísticas](https://github-readme-stats.vercel.app/api?username=Paulprade05&show_icons=true&theme=radical)
 
 ---
 
- **Cómo contactarme:** [paulprade05@gmail.com]
+**Contacto:** [paulprade05@gmail.com]
